@@ -1,7 +1,7 @@
 ## baekjoon 알고리즘 문제 풀이 with Python
 코딩테스트 대비 문제(Baekjoon Online Judge) 사이트 이용
 
-#### 2022.1.20 - ALGORITHM STUDT START
+#### 2022.1.20 - ALGORITHM STUDY START
 알고리즘 공부 시작
 #### 2022.2.13 - BOJ CLASS 1 COMPLETE
 CLASS 1 문제 해결
